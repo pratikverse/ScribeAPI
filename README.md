@@ -51,8 +51,8 @@ A **robust, scalable, and secure RESTful API** for a multi-user blogging platfor
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/blog-platform-api.git
-   cd blog-platform-api
+   git clone https://github.com/pratikverse/ScribeAPI.git
+   cd ScribeAPI
    ```
 
 2. **Install Dependencies**
@@ -80,7 +80,7 @@ A **robust, scalable, and secure RESTful API** for a multi-user blogging platfor
 
 4. **Create the PostgreSQL Database**
    ```sql
-   CREATE DATABASE blog_api;
+   CREATE DATABASE ScribeAPI;
    ```
 
 5. **Synchronize Sequelize Models**
